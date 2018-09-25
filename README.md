@@ -2,4 +2,9 @@
 
 hello Slavouchka
 
+<<<<<<< HEAD
 hello Antoine
+=======
+
+whatever
+>>>>>>> shakura
